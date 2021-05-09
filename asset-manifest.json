@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bharatpatil.github.io/csb-5un7s/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bharatpatil.github.io/csb-5un7s/static/js/main.ba15d4c7.chunk.js",
+    "main.js.map": "https://bharatpatil.github.io/csb-5un7s/static/js/main.ba15d4c7.chunk.js.map",
+    "runtime-main.js": "https://bharatpatil.github.io/csb-5un7s/static/js/runtime-main.ceee9f67.js",
+    "runtime-main.js.map": "https://bharatpatil.github.io/csb-5un7s/static/js/runtime-main.ceee9f67.js.map",
+    "static/js/2.4c557e29.chunk.js": "https://bharatpatil.github.io/csb-5un7s/static/js/2.4c557e29.chunk.js",
+    "static/js/2.4c557e29.chunk.js.map": "https://bharatpatil.github.io/csb-5un7s/static/js/2.4c557e29.chunk.js.map",
+    "index.html": "https://bharatpatil.github.io/csb-5un7s/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bharatpatil.github.io/csb-5un7s/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4c557e29.chunk.js.LICENSE.txt": "https://bharatpatil.github.io/csb-5un7s/static/js/2.4c557e29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceee9f67.js",
+    "static/js/2.4c557e29.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ba15d4c7.chunk.js"
+  ]
+}
